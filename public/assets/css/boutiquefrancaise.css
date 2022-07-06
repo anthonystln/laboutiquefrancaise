@@ -43,3 +43,8 @@ body {
     font-size: 19px;
     font-weight: bold;
 }
+
+.cart-icon {
+    height: 20px;
+    padding-left: 20px;
+}
